@@ -1,2 +1,3 @@
 # Test-repo
-my first git repo
+my first git repo 
+Author rishu
